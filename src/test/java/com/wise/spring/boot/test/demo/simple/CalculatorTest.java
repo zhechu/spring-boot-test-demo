@@ -4,6 +4,13 @@ import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * 计算器 单元测试
+ *
+ * @author lingyuwang
+ * @date 2020-06-09 14:28
+ * @since 1.1.1
+ */
 @Slf4j
 public class CalculatorTest {
 
