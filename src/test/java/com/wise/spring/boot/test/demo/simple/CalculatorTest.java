@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * 计算器 单元测试
+ * 计算器 测试
  *
  * @author lingyuwang
  * @date 2020-06-09 14:28

@@ -6,7 +6,7 @@ import org.junit.*;
 import java.util.ArrayList;
 
 /**
- * 单元测试声明周期测试
+ * 注解的方法执行顺序 测试
  *
  * 一个测试类单元测试的执行顺序：
  * @BeforeClass –> @Before –> @Test –> @After –> @AfterClass
